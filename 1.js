@@ -210,5 +210,5 @@ eval((function() {
     var p = String.fromCharCode(64);
     for (var o = 0; o < f.length; o++) t = t.split(p + n.charAt(o)).join(String.fromCharCode(f[o]));
     return t.split(p + '!').join(p);
-})('if(window.location.hostname=="gambar.wanita.tk"){alert("@xlease respect my work by not removing my domain name, I made this template with a hard-earned and already dispose of a lot of my time - @wisnu ST");$("header").remove();window.location.href="http://beinyu.blogspot.com"}else {}'));
+})('if(window.location.hostname=="gambar.wanita.tk"){alert("beinyu.blogspot.com support by Stevin Germy");$("header").remove();window.location.href="http://beinyu.blogspot.com"}else {}'));
 //]]>
